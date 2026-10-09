@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-mobile-de.mobileDeCarScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Sales",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-mobile-de#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-mobile-de#readme"
+			}
+		]
+	},
+	"alias": [
+		"mobile.de",
+		"mobile de",
+		"cars",
+		"used cars",
+		"car listings",
+		"germany",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
