@@ -184,4 +184,5 @@ Tested with n8n 2.40 (self-hosted).
 
 ## Version history
 
-- 0.1.1: Initial release, published from GitHub Actions with an npm provenance statement
+- 0.1.0: Initial release
+- 0.1.1: First release published from GitHub Actions with an npm provenance statement
